@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-### Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,docker,kubernetes,postgres,mongo,git&theme=dark&perline=5"/>
   </a>
 </p>
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
