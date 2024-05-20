@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,docker,kubernetes,,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,docker,kubernetes,postgres,mongo,c,vim/theme=light&perline="4/>
   </a>
 </p>
