@@ -4,7 +4,7 @@
 🐱‍👤 - 3+ Backend Development experience <br>
 🌊 - I do some DevOps too <br>
 🌴 - Working on different projects, glad to show if you ask ;) <br>
-🥥 - I like coconut, cocounut and coding <br>
+🥥 - I like coconut... but I like coding more <br>
 </p>
 
 ## Tech Stack
