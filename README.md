@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Samuel Ballesteros 🐱‍👓
 
 <!--
 **Savid-Woah/Savid-Woah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,docker,kubernetes,,c,vim" />
   </a>
 </p>
