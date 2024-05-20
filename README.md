@@ -1,7 +1,10 @@
 # Hi, I'm Samuel Ballesteros 🐱‍👓
 
 <p>
-I'm a Software Developer, specialized in backend with the JVM stack
+🐱‍👤 | 3+ Backend Development experience
+🌊 | I do some DevOps too
+🌴 | Working on different projects, glad to show if you ask ;)
+🥥 | I like coconut, cocounut and coding
 </p>
 
 ## Tech Stack
