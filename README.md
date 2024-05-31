@@ -11,6 +11,6 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,docker,kubernetes,postgres,mongo,git&theme=dark&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=ts,java,kotlin,spring,kafka,aws,nestjs,docker,kubernetes,postgres,mongo,git&theme=dark&perline=6"/>
   </a>
 </p>
