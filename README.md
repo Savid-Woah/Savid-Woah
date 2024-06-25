@@ -1,7 +1,7 @@
 # Hi, I'm Samuel Ballesteros 🐱‍👓
 
 <p>
-⭐ - 3+ Backend Development experience <br>
+⭐ - 2+ Backend Development experience <br>
 🌊 - I do some DevOps too <br>
 🌴 - Working on different projects, glad to show if you ask ;) <br>
 🥥 - I like coconut... but I like coding more <br>
